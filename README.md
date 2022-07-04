@@ -1,6 +1,4 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+This is a personal project for learning Nuxtjs and Tailwind CSS
 
 ## Setup
 
@@ -19,8 +17,6 @@ pnpm install --shamefully-hoist
 
 ## Development Server
 
-Start the development server on http://localhost:3000
-
 ```bash
 npm run dev
 ```
@@ -38,5 +34,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
